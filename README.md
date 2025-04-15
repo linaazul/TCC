@@ -2,8 +2,6 @@
 
 **ConstruAdmin** é um sistema desenvolvido como Trabalho de Conclusão de Curso (TCC) no curso técnico de Desenvolvimento de Sistemas do SENAI. O projeto tem como objetivo auxiliar empresas do setor de construção civil na gestão de obras, controle de materiais e acompanhamento de equipes.
 
-🔗 [Acesse a aplicação online](https://tcc-senai-production.up.railway.app/)
-
 ---
 
 ## 🚀 Funcionalidades
